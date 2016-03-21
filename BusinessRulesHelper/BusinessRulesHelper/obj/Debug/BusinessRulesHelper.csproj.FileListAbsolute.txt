@@ -1,0 +1,6 @@
+D:\project\MHGWP\BusinessRulesHelper\BusinessRulesHelper\bin\Debug\BusinessRulesHelper.exe.config
+D:\project\MHGWP\BusinessRulesHelper\BusinessRulesHelper\bin\Debug\BusinessRulesHelper.exe
+D:\project\MHGWP\BusinessRulesHelper\BusinessRulesHelper\bin\Debug\BusinessRulesHelper.pdb
+D:\project\MHGWP\BusinessRulesHelper\BusinessRulesHelper\obj\Debug\BusinessRulesHelper.csprojResolveAssemblyReference.cache
+D:\project\MHGWP\BusinessRulesHelper\BusinessRulesHelper\obj\Debug\BusinessRulesHelper.exe
+D:\project\MHGWP\BusinessRulesHelper\BusinessRulesHelper\obj\Debug\BusinessRulesHelper.pdb
